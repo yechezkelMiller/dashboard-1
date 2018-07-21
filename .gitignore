@@ -1,0 +1,9 @@
+archive
+node_modules
+.editorconfig
+.gitattributes
+browserconfig.xml
+doc/
+humans.txt
+robots.txt
+site.webmanifest
